@@ -10,6 +10,6 @@
 	<classpathentry kind="lib" path="D:/OneDrive/codes/SrcCodes/externalLibs/jaxrpc.jar"/>
 	<classpathentry kind="lib" path="D:/OneDrive/codes/SrcCodes/externalLibs/org.eclipse.jdt.core_3.11.1.v20150902-1521.jar"/>
 	<classpathentry kind="lib" path="D:/OneDrive/codes/SrcCodes/externalLibs/wsdl4j.jar"/>
-	<classpathentry kind="lib" path="D:/OneDrive/codes/SrcCodes/externalLibs/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/OneDrive/codes/SrcCodes/externalLibs/commons-logging-1.1.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
